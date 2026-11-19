@@ -148,7 +148,7 @@ cd KeyGarden
 Ejecuta el siguiente comando para instalar la biblioteca necesaria:
 
 ```bash
-pip install -r requirements.txt
+pip install -r cryptography
 ```
 
 **5. Ejecutar la aplicación**
