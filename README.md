@@ -105,8 +105,7 @@ KeyGarden/
 ├── interfaz.py
 ├── Generador.py
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 **Descripción de los archivos:**
