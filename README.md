@@ -104,7 +104,6 @@ KeyGarden/
 ├── main.py
 ├── interfaz.py
 ├── Generador.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -113,7 +112,6 @@ KeyGarden/
 - `main.py`: es el punto de entrada de la aplicación. Se encarga de iniciar el programa y abrir la interfaz gráfica.
 - `interfaz.py`: contiene la interfaz gráfica desarrollada con Tkinter. Gestiona los botones, campos de texto, tablas y las acciones del usuario.
 - `Generador.py`: contiene la lógica principal del generador y gestor de contraseñas. Se encarga de generar, guardar, recuperar y eliminar contraseñas, además de gestionar el cifrado de la bóveda.
-- `requirements.txt`: contiene las dependencias externas necesarias para ejecutar el proyecto.
 - `README.md`: contiene la documentación del proyecto.
 - `.gitignore`: indica qué archivos y carpetas deben excluirse del repositorio de Git.
 
