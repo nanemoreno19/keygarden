@@ -132,7 +132,7 @@ https://www.python.org/
 Clona el repositorio desde GitHub:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/nanemoreno19/keygarden.git
 ```
 
 También puedes descargarlo directamente como archivo ZIP desde GitHub.
